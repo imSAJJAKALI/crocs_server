@@ -1,0 +1,24 @@
+{
+  "name": "crocs_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imSAJJAKALI/crocs_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imSAJJAKALI/crocs_server/issues"
+  },
+  "homepage": "https://github.com/imSAJJAKALI/crocs_server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.4"
+  }
+}
